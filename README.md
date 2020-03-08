@@ -1,0 +1,2 @@
+# firstTurn
+leetcode study notes
